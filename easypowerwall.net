@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /Users/mitchese/Documents/18650-14s-12p/18650-14s-12p.sch)
+    (source /Users/mitchese/Documents/easypowerwall/easypowerwall.sch)
     (date "2020 March 20, Friday 15:32:38")
     (tool "Eeschema (5.1.5-0-10_14)")
     (sheet (number 1) (name /) (tstamps /)
@@ -9,7 +9,7 @@
         (company)
         (rev)
         (date)
-        (source 18650-14s-12p.sch)
+        (source easypowerwall.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
